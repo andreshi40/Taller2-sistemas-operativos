@@ -61,7 +61,7 @@ root.title("🚀 Lanzador de Aplicaciones")
 root.configure(bg=BG_COLOR)
 
 # Centrar ventana
-window_width = 590
+window_width = 650
 window_height = 260
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
